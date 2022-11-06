@@ -17,6 +17,10 @@ public class Info {
       System.out.println("C#");
 	}
 	
+	
+	private void method4() {
+          System.out.println("Oracle");
+	}
 }	
 	
 	
